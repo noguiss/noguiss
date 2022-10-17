@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noguiss
-- 👀 I’m interested in slash
-- 🌱 I’m currently learning ...
+- 👀 slash
+- 🌱 verde
 - 💞️ dormi
 - 📫 
 
